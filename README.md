@@ -17,7 +17,7 @@
 ├── docs/
 │   ├── contact.md             # 联系方式
 │   └── architecture.md        # 技术架构预览
-└── milestones/                # 里程碑规划（待定）
+└── milestones/                # 里程碑规划
 ```
 
 ## 🎯 首期功能
