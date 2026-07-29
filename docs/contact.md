@@ -9,8 +9,8 @@
 ## 项目对接
 
 - **联系人**：冯兴
-- **邮箱**：feng.xing@szbjxk.com
-- **微信/企微**：feng.xing@szbjxk.com
+- **邮箱**：feng.xing@szbjxk.com（也是企业微信）
+- **GitHub**：[Felix-rookie](https://github.com/Felix-rookie)
 
 ## 沟通渠道
 
