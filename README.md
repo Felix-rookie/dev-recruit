@@ -47,9 +47,6 @@
 
 > 每个里程碑验收后 5 个工作日内付款，可签正式合同
 
-## 📄 许可
-
-MIT License
 
 ---
 
@@ -59,6 +56,9 @@ MIT License
 - **邮箱**：feng.xing@szbjxk.com（企业微信同号）
 - **电话**：19168967026
 - **协作方式**：优先现场办公（深圳坪山），远程为辅
+
 ---
 
-*有意向欢迎通过 [Issues](https://github.com/Felix-rookie/dev-recruit/issues) 或 Discussion 联系。*
+## 📄 许可
+
+**All Rights Reserved** — 本项目为霸晶芯科内部招募所用，未经授权请勿用于商业用途。
