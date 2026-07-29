@@ -52,7 +52,6 @@ MIT License
 - **联系人**：冯兴
 - **邮箱**：feng.xing@szbjxk.com（企业微信同号）
 - **电话**：19168967026
-- **GitHub**：[Felix-rookie](https://github.com/Felix-rookie)
 - **协作方式**：优先现场办公（深圳坪山），远程为辅
 ---
 
